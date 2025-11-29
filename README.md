@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shashank Wattamwar</h1>
 
-<h3 align="center">A curious front-end developer & cybersecurity enthusiast from India 🇮🇳</h3>
+<h3 align="center">A  Java developer with a strong interest in business, technology, and real-world problem solving from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashankwattamwar11" alt="visitor-count"/>
 </p>
 
-- 🤔 I’m currently building & documenting interesting front-end projects and exploring cybersecurity tools.
-- 💬 Ask me about **React, Vue, GSAP, Java, Operating Systems, and basic cybersec tools.**
+- 🤔 I’m currently Showcasing my journey as a Java developer with a strong interest in business, technology, and real-world problem solving.
+- 💬 Ask me about   Java, Operating Systems, and basic cybersecurity tools, python.**
 - 📫 Reach me at **shashankwattamwar22@gmail.com**
-- 👨‍💻 My portfolio: https://shashankwattamwar11.github.io
+- 👨‍💻 My portfolio:http://shashank11.netlify.app
 - ⚡ Fun fact: *Chai > Coffee. Change my mind ☕️➡️🍵*
 
 I write short notes and document my tech journey here:  
@@ -24,9 +24,6 @@ I write short notes and document my tech journey here:
   </a>
   <a href="https://www.linkedin.com/in/sha999" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
