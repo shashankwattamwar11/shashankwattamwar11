@@ -26,10 +26,6 @@
 
 ---
 
-### 📕 Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- *(Add your latest posts here or I can automate it for you)*  
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
