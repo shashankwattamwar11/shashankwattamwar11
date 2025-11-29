@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank Wattamwar</h1>
 
-<h3 align="center">A  Java developer with a strong interest in business, technology, and real-world problem solving from India 🇮🇳</h3>
+<h3 align="center">A  Java developer with a strong interest in business, technology, and real-world problem solving from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashankwattamwar11" alt="visitor-count"/>
