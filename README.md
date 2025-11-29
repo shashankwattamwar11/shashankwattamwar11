@@ -46,6 +46,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankwattamwar11&show_icons=true&count_private=true" alt="github-stats" />
-</p>
+
